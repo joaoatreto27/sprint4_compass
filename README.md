@@ -1,4 +1,6 @@
-# desafio_vuejs_squadred_sprint4
+# Desafio Sprint 4 | Programa de Bolsas | Compass.UOL
+
+## Deploy: https://desafio-vuejs-squadred-sprint4.web.app/
 
 ## Project setup
 ```

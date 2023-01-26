@@ -1,9 +1,5 @@
 # Desafio Sprint 4 | Programa de Bolsas | Compass.UOL
 
-## Welcome! 👋
-
-## Table of contents
-
 - [Visão Geral](#visão-geral)
   - [Desafio](#desafio)
   - [Screenshots](#screenshot)

@@ -23,9 +23,9 @@ Depois de preecher corretamente todos os campos, o usuário é direcionado a pá
 
 ### Screenshot
 <div align="center">
-    <img src="./src/assets/screenshot.png" width="500px">
-    <img src="./src/assets/screenshot2.png" width="500px">
-    <img src="./src/assets/screenshot3.png" width="500px">
+    <img src="./src/assets/screenshot.png" width="400px">
+    <img src="./src/assets/screenshot2.png" width="400px">
+    <img src="./src/assets/screenshot3.png" width="400px">
 </div>
 
 ### Links

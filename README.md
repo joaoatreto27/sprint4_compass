@@ -7,7 +7,6 @@
 - [Processo](#processo)
   - [Construido com](#construido-com)
 - [Validações](#validações)
-- [Autor](#autor)
 
 ## Visão Geral
 
@@ -48,10 +47,6 @@ Depois de preecher corretamente todos os campos, o usuário é direcionado a pá
 - Institution: Somente ser preenchido;
 - Graduation: Somente ser preenchido;
 
-
-## Autor
-
-- Linkedin - [João Antonio Treto](https://www.linkedin.com/in/joaoatreto-159727213/)
 
 ## Project setup
 ```
